@@ -7,4 +7,4 @@
 ##### Application Scope:
 
 - S12: A Look Behind the Scenes of React & Optimization Techniques
-- Topics discussed: Optimize any data or task/calculation that wil result to data using useMemo() hook
+- Topics discussed: Optimize any data or task/calculation that will result to data using useMemo() hook
